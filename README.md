@@ -1,4 +1,4 @@
-# Quota Monitoring and Alerting
+# Quota Monitoring and Alerting Solution
 
 > An easy-to-deploy Looker Studio Dashboard with alerting capabilities, showing
 usage and quota limits in an organization or folder.
